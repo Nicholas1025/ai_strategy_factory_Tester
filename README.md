@@ -76,8 +76,7 @@ python run_pipeline.py
 
 ## 🎓 Academic Context
 
-This project is part of an early-stage Final Year Project initiative  
-at **Multimedia University (MMU)**, under the **Bachelor of Computer Science (Hons.) in AI** program.  
+-
 
 
 ---
