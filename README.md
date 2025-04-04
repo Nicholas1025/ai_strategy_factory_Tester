@@ -78,8 +78,7 @@ python run_pipeline.py
 
 This project is part of an early-stage Final Year Project initiative  
 at **Multimedia University (MMU)**, under the **Bachelor of Computer Science (Hons.) in AI** program.  
-Planned FYP Start: **March/April 2026 (Year 2, Semester 3)**  
-Supervisor: *Dr. Ong Lee Yeng*
+
 
 ---
 
@@ -91,5 +90,5 @@ If you're interested in collaboration, mentoring, or feedback — feel free to o
 
 ## 📄 License
 
-This project is open for academic and research purposes only.  
-**Commercial use is not permitted without consent.**
+📄 License: MIT (for research & academic use only — commercial use requires author permission)
+
