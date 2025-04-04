@@ -13,11 +13,11 @@ os.makedirs(LOG_FOLDER, exist_ok=True)
 
 def run():
 
-    print("[🚀] 正在调用 AI 生成策略")
+    print("[🚀] Calling AI generated strategy")
 
     strategy_code = generate_strategy()
     if not is_valid_python(strategy_code):
-        print("[❌] 生成策略语法错误")
+        print("[❌] Generate policy syntax error")
         return
 
     strategy_id = str(uuid.uuid4())[:8]
@@ -35,7 +35,7 @@ def run():
     with open(result_path, "w", encoding="utf-8") as f:
         f.write(result)
 
-    print(f"[📈] 回测完成，结果保存于：{result_path}")
+    print(f"[📈] Backtesting complete，Result saved：{result_path}")
 
 if __name__ == "__main__":
     run()
