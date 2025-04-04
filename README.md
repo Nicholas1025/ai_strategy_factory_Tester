@@ -89,5 +89,7 @@ If you're interested in collaboration, mentoring, or feedback — feel free to o
 
 ## 📄 License
 
-📄 License: MIT (for research & academic use only — commercial use requires author permission)
+📄 **Note:** This project is released under the MIT License for research and educational purposes only.  
+Commercial use is not permitted without written consent from the author.
+
 
