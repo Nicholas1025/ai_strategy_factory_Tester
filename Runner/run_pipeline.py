@@ -26,8 +26,8 @@ def run():
     with open(strategy_path, "w", encoding="utf-8") as f:
         f.write(strategy_code)
 
-    print(f"[✅] 策略已保存：{strategy_path}")
-    print("[⏳] 开始回测...")
+    print(f"[✅] stragegy is complete：{strategy_path}")
+    print("[⏳] Start backtesting...")
 
     result = run_backtest(strategy_path)
 
