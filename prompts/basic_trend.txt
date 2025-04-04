@@ -1,0 +1,7 @@
+你是一个写交易策略的专家。请写一个适用于IMC Prosperity tutorial round的简单趋势跟随策略。策略结构如下：
+
+- 适用于某一个产品（如 PEARLS）
+- 使用 mid_price 与历史平均价格判断趋势
+- 如果当前价格高于均值并持续上涨，就买入；反之则卖出
+- 请输出完整 Python 策略代码，函数签名应为 `def run(strategy, state, logger):`
+- 不需要 print，只返回 orders
