@@ -1,4 +1,3 @@
-# generator.py (新API格式)
 import os
 from openai import OpenAI
 from config import OPENAI_API_KEY, MODEL_NAME, PROMPT_FOLDER
