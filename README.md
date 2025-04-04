@@ -1,6 +1,6 @@
 # 🧠 AI Strategy Discovery Engine
 
-A modular, GPT-powered platform for generating, backtesting, and selecting algorithmic trading strategies — built for experimentation, competition, and future research (FYP 2026 @ MMU 🎓).
+A modular, GPT-powered platform for generating, backtesting, and selecting algorithmic trading strategies — built for experimentation and competition.
 
 ---
 
